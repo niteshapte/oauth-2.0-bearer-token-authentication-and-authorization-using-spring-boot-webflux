@@ -1,4 +1,4 @@
-# oauth-2.0-bearer-token-authentication-and-authorization-using-spring-boot-webflux
+# OAuth 2.0 Bearer Token authentication and authorization using Spring Boot WebFlux
 How to implement OAuth 2.0 Bearer Token authentication and authorization using Spring Boot WebFlux
 
 ## Please visit the blog to more details

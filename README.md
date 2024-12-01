@@ -2,7 +2,7 @@
 How to implement OAuth 2.0 Bearer Token authentication and authorization using Spring Boot WebFlux
 
 ## Please visit the blog to more details
-https://www.google.com](https://blog.niteshapte.com/2024-04-13-how-to-implement-oauth-2-0-bearer-token-authentication-and-authorization-using-spring-boot-webflux.htm
+https://blog.niteshapte.com/2024-04-13-how-to-implement-oauth-2-0-bearer-token-authentication-and-authorization-using-spring-boot-webflux.htm
 
 ---
 In modern web applications, securing APIs with OAuth 2.0 is a common practice. But before we proceed further, let's see what is meant by OAuth.
